@@ -1,0 +1,121 @@
+====================================
+PROJECT LOG FILE
+Frontend Developer Task
+====================================
+
+Project Name: Expense Tracker App
+Author: [Your Full Name]
+Date: [Submission Date]
+
+------------------------------------
+1. System Information
+------------------------------------
+Operating System: Windows 11
+Node.js Version: v18.17.0
+npm Version: 9.8.0
+Frontend Framework: React (Vite)
+Backend Runtime: Node.js (Express + MongoDB)
+Environment: Development
+
+------------------------------------
+2. Backend Logs
+------------------------------------
+Command:
+> cd backend
+> npm run dev
+
+Output:
+> backend@1.0.0 dev
+> nodemon index.js
+
+[nodemon] 3.1.10
+[nodemon] to restart at any time, enter `rs`
+[nodemon] watching path(s): *.*
+[nodemon] watching extensions: js,mjs,cjs,json
+[nodemon] starting `node index.js`
+[dotenv@17.2.3] injecting env (3) from .env -- tip: ✅ audit secrets and track compliance: https://dotenvx.com/ops
+
+🔗 Connecting to MongoDB...
+
+🚀 ===========================================
+   Expense Tracker Server Started
+   Port: 5000
+   Environment: development
+   Time: 2025-10-11T19:10:01.138Z
+🚀 ===========================================
+
+📡 Ready to receive requests...
+
+✅ MongoDB Connected Successfully!
+   Host: ac-guzvh8p-shard-00-01.6q83oji.mongodb.net
+   Database: test
+   Port: 27017
+
+📡 [2025-10-11T19:10:05.639Z] POST /api/users/signup
+🔐 User signup attempt
+✅ User created successfully:
+  id: 68eaab8d1d318ded3c33d51b
+  name: anjali
+  email: 12345@gmail.com
+✅ Response: 201
+📤 Data: User created successfully with JWT token
+
+📡 [2025-10-11T19:10:06.183Z] GET /api/expenses
+🔒 Authentication successful for user: 12345@gmail.com
+📋 Fetching expenses for user: 68eaab8d1d318ded3c33d51b
+✅ Found 0 expenses
+✅ Response: 200
+
+📡 [2025-10-11T19:10:21.527Z] POST /api/expenses
+🔒 Authentication successful for user: 12345@gmail.com
+➕ Creating new expense: 'aaaa' | Amount: 11111 | Category: Food & Dining
+✅ Expense created successfully (201)
+
+📡 [2025-10-11T19:10:36.827Z] POST /api/expenses
+🔒 Authentication successful for user: 12345@gmail.com
+➕ Creating new expense: 'xxxx' | Amount: 4112 | Category: Bills & Utilities
+✅ Expense created successfully (201)
+
+Backend and API routes verified — all operations successful.
+
+------------------------------------
+3. Frontend Logs
+------------------------------------
+Command:
+> cd frontend
+> npm run dev
+
+Output:
+> expensetracker@0.0.0 dev
+> vite
+
+Port 5173 is in use, trying another one...
+
+VITE v7.1.9 ready in 848 ms
+
+  ➜  Local:   http://localhost:5174/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
+
+Frontend compiled successfully and is running on port 5174.
+
+------------------------------------
+4. Verification
+------------------------------------
+✅ Backend running on: http://localhost:5000  
+✅ Frontend running on: http://localhost:5174  
+✅ MongoDB connected successfully  
+✅ User registration, authentication, and expense creation verified  
+✅ No errors or crashes during runtime  
+
+------------------------------------
+5. Notes
+------------------------------------
+- Project tested and executed successfully.
+- Backend and frontend servers both operational.
+- All API endpoints tested manually.
+- Application ready for submission.
+
+====================================
+END OF LOG FILE
+====================================
