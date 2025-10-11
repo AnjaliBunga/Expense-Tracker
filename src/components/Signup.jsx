@@ -38,7 +38,7 @@ const Signup = ({ onSignup, onSwitchToLogin }) => {
     }
 
     try {
-      const response = await fetch('http://localhost:5000/api/users/signup', {
+      const response = await fetch('https://expense-tracker-u4r9.onrender.com/api/users/signup', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
