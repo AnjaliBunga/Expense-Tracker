@@ -20,7 +20,6 @@
 |---------|-----|--------|
 | **Frontend** | [expense-tracker-frontend.onrender.com](https://expense-tracker-frontend.onrender.com) | 🟢 Live |
 | **Backend API** | [expense-tracker-u4r9.onrender.com](https://expense-tracker-u4r9.onrender.com) | 🟢 Live |
-| **Health Check** | [API Health Status](https://expense-tracker-u4r9.onrender.com/api/health) | 🟢 Live |
 
 ## ✨ Key Features
 
