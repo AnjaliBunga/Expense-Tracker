@@ -18,7 +18,7 @@
 
 | Service | URL | Status |
 |---------|-----|--------|
-| **Frontend** | [expense-tracker-frontend.onrender.com](https://fascinating-cranachan-dce869.netlify.app/) | 🟢 Live |
+| **Frontend** | [https://fascinating-cranachan-dce869.netlify.app/](https://fascinating-cranachan-dce869.netlify.app/) | 🟢 Live |
 | **Backend API** | [expense-tracker-u4r9.onrender.com](https://expense-tracker-u4r9.onrender.com) | 🟢 Live |
 
 ## ✨ Key Features
