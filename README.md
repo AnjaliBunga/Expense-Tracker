@@ -9,7 +9,7 @@
 
 **A modern, full-stack expense tracking application with real-time data synchronization, secure authentication, and beautiful responsive design.**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20App-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://expense-tracker-frontend.onrender.com)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20App-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://fascinating-cranachan-dce869.netlify.app/)
 [![API Docs](https://img.shields.io/badge/API%20Docs-View%20Endpoints-FF6B6B?style=for-the-badge&logo=swagger&logoColor=white)](https://expense-tracker-u4r9.onrender.com/api/health)
 
 </div>
@@ -18,7 +18,7 @@
 
 | Service | URL | Status |
 |---------|-----|--------|
-| **Frontend** | [expense-tracker-frontend.onrender.com](https://expense-tracker-frontend.onrender.com) | 🟢 Live |
+| **Frontend** | [expense-tracker-frontend.onrender.com](https://fascinating-cranachan-dce869.netlify.app/) | 🟢 Live |
 | **Backend API** | [expense-tracker-u4r9.onrender.com](https://expense-tracker-u4r9.onrender.com) | 🟢 Live |
 
 ## ✨ Key Features
@@ -63,7 +63,7 @@
 ### 🌐 Live Demo
 **Try the application right now!** No setup required.
 
-[![Try Live Demo](https://img.shields.io/badge/🚀%20Try%20Live%20Demo-Visit%20Now-00C851?style=for-the-badge&logo=rocket&logoColor=white)](https://expense-tracker-frontend.onrender.com)
+[![Try Live Demo](https://img.shields.io/badge/🚀%20Try%20Live%20Demo-Visit%20Now-00C851?style=for-the-badge&logo=rocket&logoColor=white)](https://fascinating-cranachan-dce869.netlify.app/)
 
 ### 🛠️ Local Development
 
