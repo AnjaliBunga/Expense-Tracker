@@ -10,7 +10,7 @@
 **A modern, full-stack expense tracking application with real-time data synchronization, secure authentication, and beautiful responsive design.**
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20App-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://fascinating-cranachan-dce869.netlify.app/)
-[![API Docs](https://img.shields.io/badge/API%20Docs-View%20Endpoints-FF6B6B?style=for-the-badge&logo=swagger&logoColor=white)](https://expense-tracker-u4r9.onrender.com/api/health)
+
 
 </div>
 
