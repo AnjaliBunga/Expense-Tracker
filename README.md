@@ -9,7 +9,7 @@
 
 **A modern, full-stack expense tracking application with real-time data synchronization, secure authentication, and beautiful responsive design.**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20App-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://fascinating-cranachan-dce869.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20App-00C851?style=for-the-badge&logo=vercel&logoColor=white)](https://expensetrackerrrrrr.netlify.app/)
 
 
 </div>
@@ -63,7 +63,7 @@
 ### 🌐 Live Demo
 **Try the application right now!** No setup required.
 
-[![Try Live Demo](https://img.shields.io/badge/🚀%20Try%20Live%20Demo-Visit%20Now-00C851?style=for-the-badge&logo=rocket&logoColor=white)](https://fascinating-cranachan-dce869.netlify.app/)
+[![Try Live Demo](https://img.shields.io/badge/🚀%20Try%20Live%20Demo-Visit%20Now-00C851?style=for-the-badge&logo=rocket&logoColor=white)](https://expensetrackerrrrrr.netlify.app/)
 
 ### 🛠️ Local Development
 
@@ -220,7 +220,7 @@ This application is deployed on **Render** with the following services:
 
 | Service | URL | Status |
 |---------|-----|--------|
-| **Frontend** | [expense-tracker-frontend.onrender.com](https://expense-tracker-frontend.onrender.com) | 🟢 Live |
+| **Frontend** | [https://expensetrackerrrrrr.netlify.app/](https://expensetrackerrrrrr.netlify.app/) | 🟢 Live |
 | **Backend** | [expense-tracker-u4r9.onrender.com](https://expense-tracker-u4r9.onrender.com) | 🟢 Live |
 
 ### 🛠️ Deployment Guide
@@ -309,7 +309,7 @@ This Expense Tracker demonstrates modern full-stack development with:
 
 | Resource | Link |
 |----------|------|
-| **Live Application** | [expense-tracker-frontend.onrender.com](https://expense-tracker-frontend.onrender.com) |
+| **Live Application** | [https://expensetrackerrrrrr.netlify.app/](https://expensetrackerrrrrr.netlify.app/) |
 | **GitHub Repository** | [View Source Code]([https://github.com/yourusername/expense-tracker](https://github.com/AnjaliBunga/Expense-Tracker/)) |
 
 ---
