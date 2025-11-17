@@ -11,7 +11,7 @@ const PORT = process.env.PORT || 5000;
 // Middleware
 app.use(cors());
 app.use(cors({
-  origin: 'https://fascinating-cranachan-dce869.netlify.app'
+  origin: 'https://expensetrackerrrrrr.netlify.app/'
 }));
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
